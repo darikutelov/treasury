@@ -5,5 +5,3 @@
 
 - Treasure contract
   https://sepolia.etherscan.io/address/0x1e0705287a8d7b5834aaeb1a2a8be2a0cc8c2da9
-
-Няма време за verify за съжаление
